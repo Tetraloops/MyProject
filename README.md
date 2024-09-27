@@ -1,4 +1,2 @@
 # MyProject
-My First Repository
-My First Commit
-ERP project for Hotel Management
+ERP django project for Hotel Management
